@@ -50,7 +50,9 @@ body{
     background-color: lightgreen;
 }
 .pieddepage{
-    background-color: lightgray;
+    background-color: green;
+    color: aqua;
+    text-align: center;
 }
 .titre{
 font-size: 12px;
