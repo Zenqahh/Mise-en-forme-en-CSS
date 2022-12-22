@@ -44,7 +44,8 @@ body{
     background-color: deepskyblue;
 }
 .colonne_menu{
-    background-color: gold;
+    background-color: red;
+    margin: 10px;
 }
 .colonne_contenu {
     background-color: lightgreen;
@@ -53,6 +54,7 @@ body{
     background-color: green;
     color: aqua;
     text-align: center;
+    line-height: 0%;
 }
 .titre{
 font-size: 12px;
@@ -63,6 +65,45 @@ color: yellow;
     font-size: 12px;
     color: yellow;
     font-style: italic;
+}
+
+h1{
+    background-color: coral;
+    margin: 10px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid purple;
+}
+h2{
+    color: darkblue;
+    font-size: 15px;
+    margin: 20px;
+    font-variant-caps: all-petite-caps;
+
+}
+
+strong{
+    color: darkturquoise;
+    font-weight: none;
+}
+
+em{
+    color: violet;
+}
+
+.introduction{
+    font-style: italic;
+    border: solid;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+a{
+   font-weight: 800; 
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+    
 }
 
 
